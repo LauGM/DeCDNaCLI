@@ -16,10 +16,10 @@ export default {
   },
   data(){
     return{
-      titulo:["Usuarios de Soporte Tecnico","Usuarios del Area de Gerencia","Usuarios de Sector It"],
+      titulo:["Usuarios de Soporte Tecnico","Usuarios del Area Gerencial","Usuarios de Sector It"],
           listaSoporte:[
               {usuario:"@lucc__34",clave:"45Ad45"},
-              {usuario:"@starwars10",clave:"St4rW4rs"},
+              {usuario:"@starwars1980",clave:"St4rW4rs"},
               {usuario:"@Jimenez99",clave:"yo8787*"}
           ],
           listaDirectivos:[

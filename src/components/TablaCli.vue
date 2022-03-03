@@ -30,3 +30,5 @@
         }
     })
 </script>
+
+// no utilizo estilos aqui porque estoy usando bootstrap
