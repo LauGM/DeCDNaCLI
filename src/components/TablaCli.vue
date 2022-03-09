@@ -27,6 +27,9 @@
             miarray: Array,
             misestilos: String,
             miencabezado: Boolean
+        },
+        mounted(){
+            console.info(`mis props son ${JSON.stringify(this.$props)}`);
         }
     })
 </script>
